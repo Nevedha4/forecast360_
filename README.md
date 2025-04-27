@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Forecast360 Project
 Weather prediction app using Flask and Machine Learning.
 =======
